@@ -99,5 +99,5 @@ def run_gep_algorithm():
 
 # Run the algorithm
 if __name__ == "__main__":
-    print("Praneeta M Reddy,1BM22CS205")
+    print("Raghavendra R, 1BM22CS214")
     run_gep_algorithm()
